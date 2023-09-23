@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Cheddar Pie	</title>
+	<atom:link href="/cheddar-pie/feed/" rel="self" type="application/rss+xml" />
+	<link>/cheddar-pie/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Oct 2018 08:45:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Anna Wilson		</title>
+		<link>/cheddar-pie/#comment-20</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:45:07 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=93#comment-20</guid>
+
+					<description><![CDATA[Quaeque evertitur ne eam, pri no wisi accusam molestiae, ne per munere scripta. Ad cetero intellegam eos. Tibique consequuntur vel eu, te eum epicuri forensibu.]]></description>
+			<content:encoded><![CDATA[<p>Quaeque evertitur ne eam, pri no wisi accusam molestiae, ne per munere scripta. Ad cetero intellegam eos. Tibique consequuntur vel eu, te eum epicuri forensibu.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Robert Rid		</title>
+		<link>/cheddar-pie/#comment-19</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:39:09 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=93#comment-19</guid>
+
+					<description><![CDATA[Ex eum urbanitas consectetuer, mei ut duis alienum maluisset. Vel officiis pertinax splendide ei, eum sale insolens maiestatis ad omittantur mea.]]></description>
+			<content:encoded><![CDATA[<p>Ex eum urbanitas consectetuer, mei ut duis alienum maluisset. Vel officiis pertinax splendide ei, eum sale insolens maiestatis ad omittantur mea.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Babeczki Churros	</title>
+	<atom:link href="/churros-cupcakes/feed/" rel="self" type="application/rss+xml" />
+	<link>/churros-cupcakes/</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Sep 2023 16:30:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Anna Wilson		</title>
+		<link>/churros-cupcakes/#comment-3</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:51:17 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=46#comment-3</guid>
+
+					<description><![CDATA[Ex oportere incorrupte mel, per et iisque inermis. Semper tamquam postulant qui ut.]]></description>
+			<content:encoded><![CDATA[<p>Ex oportere incorrupte mel, per et iisque inermis. Semper tamquam postulant qui ut.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

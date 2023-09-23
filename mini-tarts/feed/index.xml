@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Mini Tarts	</title>
+	<atom:link href="/mini-tarts/feed/" rel="self" type="application/rss+xml" />
+	<link>/mini-tarts/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Oct 2018 08:55:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Anna Wilson		</title>
+		<link>/mini-tarts/#comment-11</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:55:08 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=19#comment-11</guid>
+
+					<description><![CDATA[Eripuit platonem cum cu, eius solet labores sit id, sit id iudico blandit senserit. Ex eam quas disputationi definitiones.]]></description>
+			<content:encoded><![CDATA[<p>Eripuit platonem cum cu, eius solet labores sit id, sit id iudico blandit senserit. Ex eam quas disputationi definitiones.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

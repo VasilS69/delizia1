@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Plum Clautis	</title>
+	<atom:link href="/plum-clautis/feed/" rel="self" type="application/rss+xml" />
+	<link>/plum-clautis/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Oct 2018 08:46:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Автор: Anna Wilson		</title>
+		<link>/plum-clautis/#comment-8</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:46:22 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=86#comment-8</guid>
+
+					<description><![CDATA[В ответ на &lt;a href=&quot;/plum-clautis/#comment-7&quot;&gt;Robert Rid&lt;/a&gt;.
+
+Graecis philosophia est in, te tota facete sed. Eum at quot accusata. Ex sed meis vocent, vel et iisque assentior, duis autem consul te eam.]]></description>
+			<content:encoded><![CDATA[<p>В ответ на <a href="/plum-clautis/#comment-7">Robert Rid</a>.</p>
+<p>Graecis philosophia est in, te tota facete sed. Eum at quot accusata. Ex sed meis vocent, vel et iisque assentior, duis autem consul te eam.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Автор: Robert Rid		</title>
+		<link>/plum-clautis/#comment-7</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2018 08:39:54 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=86#comment-7</guid>
+
+					<description><![CDATA[Suas dolore ei eos. Nam wisi falli eu. Mei eu agam omnesque invidunt, eu pri elitr putent apeirian, et solet platonem sapientem vixeverti adolescens.]]></description>
+			<content:encoded><![CDATA[<p>Suas dolore ei eos. Nam wisi falli eu. Mei eu agam omnesque invidunt, eu pri elitr putent apeirian, et solet platonem sapientem vixeverti adolescens.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Комментарии на сайте Delizia	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 Sep 2023 21:05:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>
+		Комментарий к записи Привет, мир! (Комментатор WordPress)		</title>
+		<link>/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/#comment-1</link>
+
+		<dc:creator><![CDATA[Комментатор WordPress]]></dc:creator>
+		<pubDate>Tue, 19 Sep 2023 19:00:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Привет! Это комментарий.
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.
+Аватары авторов комментариев загружаются с сервиса &lt;a href=&quot;https://ru.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Привет! Это комментарий.<br />
+Чтобы начать модерировать, редактировать и удалять комментарии, перейдите на экран «Комментарии» в консоли.<br />
+Аватары авторов комментариев загружаются с сервиса <a href="https://ru.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи The Most Amazing Chocolate Cake Recipe (Robert Rid)		</title>
+		<link>/the-most-amazing-chocolate-cake-recipe/#comment-15</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 12:38:54 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?p=39#comment-15</guid>
+
+					<description><![CDATA[Aliquip recusabo lobortis an nam, novum putent conclusionemque ex nec. Ea fastidii erroribus pri, ne dico eleifend similique mei, qui et quot consectetuer.]]></description>
+			<content:encoded><![CDATA[<p>Aliquip recusabo lobortis an nam, novum putent conclusionemque ex nec. Ea fastidii erroribus pri, ne dico eleifend similique mei, qui et quot consectetuer.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Sandwich (Robert Rid)		</title>
+		<link>/product/sandwich/#comment-52</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 14:03:02 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1279#comment-52</guid>
+
+					<description><![CDATA[Not so good...]]></description>
+			<content:encoded><![CDATA[<p>Not so good&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Almond Cake (Anna Wilson)		</title>
+		<link>/product/almond-cake/#comment-56</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 14:02:42 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1674#comment-56</guid>
+
+					<description><![CDATA[Awsome &#038; delish!]]></description>
+			<content:encoded><![CDATA[<p>Awsome &amp; delish!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Fruit Cannoli (Robert Rid)		</title>
+		<link>/product/fruit-cannoli/#comment-51</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 14:02:17 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1272#comment-51</guid>
+
+					<description><![CDATA[Pulvinar pellentesque habitant morbi tristique senectus et netus. Tristique senectus et netus et malesuada fames ac turpis egestas. Turpis tincidunt id aliquet risus feugiat.]]></description>
+			<content:encoded><![CDATA[<p>Pulvinar pellentesque habitant morbi tristique senectus et netus. Tristique senectus et netus et malesuada fames ac turpis egestas. Turpis tincidunt id aliquet risus feugiat.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Caramel Tart (Anna Wilson)		</title>
+		<link>/product/caramel-tart/#comment-55</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 14:01:59 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1672#comment-55</guid>
+
+					<description><![CDATA[Posuere morbi leo urna molestie at elementum eu facilisis sed. Ipsum a arcu cursus vitae congue mauris.]]></description>
+			<content:encoded><![CDATA[<p>Posuere morbi leo urna molestie at elementum eu facilisis sed. Ipsum a arcu cursus vitae congue mauris.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Acai Bowl (Anna Wilson)		</title>
+		<link>/product/acai-bowl/#comment-54</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 14:01:23 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1341#comment-54</guid>
+
+					<description><![CDATA[Phasellus egestas tellus rutrum tellus pellentesque eu. Non diam phasellus vestibulum lorem]]></description>
+			<content:encoded><![CDATA[<p>Phasellus egestas tellus rutrum tellus pellentesque eu. Non diam phasellus vestibulum lorem</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Tompouce (Robert Rid)		</title>
+		<link>/product/tompouce/#comment-50</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 13:55:54 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1046#comment-50</guid>
+
+					<description><![CDATA[At consectetur lorem donec massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Et tortor at risus viverra adipiscing.]]></description>
+			<content:encoded><![CDATA[<p>At consectetur lorem donec massa. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Et tortor at risus viverra adipiscing.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Croissant (Anna Wilson)		</title>
+		<link>/product/croissant/#comment-53</link>
+
+		<dc:creator><![CDATA[Anna Wilson]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 13:55:29 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1338#comment-53</guid>
+
+					<description><![CDATA[Non curabitur gravida arcu ac tortor dignissim convallis aenean. Posuere morbi leo urna molestie at elementum eu facilisis sed.]]></description>
+			<content:encoded><![CDATA[<p>Non curabitur gravida arcu ac tortor dignissim convallis aenean. Posuere morbi leo urna molestie at elementum eu facilisis sed.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Комментарий к записи Dariole (Robert Rid)		</title>
+		<link>/product/dariole/#comment-49</link>
+
+		<dc:creator><![CDATA[Robert Rid]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 13:55:06 +0000</pubDate>
+		<guid isPermaLink="false">http://dolcino.mikado-themes.com/?post_type=product&#038;p=1038#comment-49</guid>
+
+					<description><![CDATA[Great!]]></description>
+			<content:encoded><![CDATA[<p>Great!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
